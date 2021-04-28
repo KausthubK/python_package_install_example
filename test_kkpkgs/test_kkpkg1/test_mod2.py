@@ -17,8 +17,7 @@ class test_Mod2(unittest.TestCase):
     
     def test_fn2(self):
         sut.fn2()
-        self.assertTrue(True)
-        
+        self.assertTrue(True)    
         
 
 if __name__ == '__main__':
