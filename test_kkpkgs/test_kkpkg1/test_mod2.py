@@ -7,7 +7,7 @@ import unittest
 
 from kkpkgs.kkpkg1 import mod2 as sut
 
-class TestMod2(unittest.TestCase):
+class test_Mod2(unittest.TestCase):
     def setUp(self) -> None:
         self.manual_test = False
 
